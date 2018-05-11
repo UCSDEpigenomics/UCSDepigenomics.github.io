@@ -3969,7 +3969,8 @@ body {
 .cid-qRLvNl07Hj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1046x589.jpg");
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
 }
 @media (min-width: 992px) {
   .cid-qRLvNl07Hj .mbr-figure {
