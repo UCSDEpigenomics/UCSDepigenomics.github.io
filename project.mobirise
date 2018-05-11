@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Center_Website",
-    "currentPage": "ourteam.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -559,7 +559,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>02.12.18  - </b>Check out our new paper in Nature Neuroscience <a href=\"https://www.nature.com/articles/s41593-018-0079-3\" target=\"_blank\">here</a>.&nbsp;<div><b><br></b></div><div><b>09.15.17 - </b>Dr. Gorkin was recently featured on the N=1 Podcast! Check it out here.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>02.12.18  - </b>Check out our new paper in Nature Neuroscience <a href=\"https://www.nature.com/articles/s41593-018-0079-3\" target=\"_blank\">here</a>.&nbsp;<div><b><br></b></div><div><b>09.15.17 - </b>Dr. Gorkin was recently featured on the <a href=\"https://health.ucsd.edu/news/Pages/Podcasts.aspx\" target=\"_blank\">N=1 Podcast</a>! Check it out <a href=\"https://soundcloud.com/ucsdhealth/epigenomics\" target=\"_blank\">here</a>.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qPBTkweVpl",
           "_anchor": "content1-b",
           "_protectedParams": [],
